@@ -1,1 +1,5 @@
-print ("hello")
+a = "hello"
+if a == "hello":
+    print("o a deu hello")
+else:
+    print("o a é mal educado")
