@@ -1,4 +1,4 @@
-a = "anaooo"
+a = input()
 if a == "hello":
     print("o a deu hello")
 else:
