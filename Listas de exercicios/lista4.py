@@ -42,4 +42,11 @@ import math
 #     print("DDD nao cadastrado")
 
 
-#EXERCÍCIO 5 - Tira-teima
+#EXERCÍCIO 5 - TIRA-TEIMA
+# x , y = map(float,input().split())
+# if 0 <= x <= 432 and 0 <= y <= 468:
+#     print("dentro")
+# else:
+#     print("fora")
+
+#EXERCÍCIO 6 - MÁQUINA DE CAFÉ
