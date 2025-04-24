@@ -49,4 +49,4 @@ import math
 # else:
 #     print("fora")
 
-#EXERCÍCIO 6 - MÁQUINA DE CAFÉ
+#EXERCÍCIO 5 - MÁQUINA DE CAFÉ
