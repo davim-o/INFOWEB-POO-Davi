@@ -20,7 +20,7 @@ import math
 #     print("Nao sao Multiplos")
 
 
-# EXERCÍCIO 4 - DDD
+# EXERCÍCIO 3 - DDD
 # ddd=int(input())
 # if ddd==61:
 #     print("Brasilia")
@@ -42,7 +42,7 @@ import math
 #     print("DDD nao cadastrado")
 
 
-#EXERCÍCIO 5 - TIRA-TEIMA
+#EXERCÍCIO 4 - TIRA-TEIMA
 # x , y = map(float,input().split())
 # if 0 <= x <= 432 and 0 <= y <= 468:
 #     print("dentro")
