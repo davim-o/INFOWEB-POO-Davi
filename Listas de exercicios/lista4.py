@@ -49,4 +49,22 @@ import math
 # else:
 #     print("fora")
 
-#EXERCÍCIO 5 - MÁQUINA DE CAFÉ
+#EXERCÍCIO 5 - NÚMEROS PARES
+# num=0
+# while num <= 98:
+#     num=num+2
+#     print (num)
+
+
+#EXERCÍCIO 6 - MAIOR E POSIÇÃO
+# valores = []
+# for i in range(100):
+#     valor = int(input())  
+#     valores.append(valor)
+# maior_valor = max(valores)
+# posicao = valores.index(maior_valor) + 1  
+# print(maior_valor)
+# print(posicao)
+
+
+#EXERCÍCIO 7 - 
